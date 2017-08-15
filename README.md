@@ -1,4 +1,4 @@
-## Explicit bind in Guice module
+## Guice tutorial
 - Edit `pom.xml` to add Guice as a dependency
 - Eatable interface with `getCalories()` methods 
 - Apple and Banana implement that

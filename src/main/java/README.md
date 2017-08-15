@@ -1,4 +1,5 @@
 ## Explicit bind in Guice module
+- Edit `pom.xml` to add Guice as a dependency
 - Eatable interface with `getCalories()` methods 
 - Apple and Banana implement that
 - In CalorieCounter constructor whcih needs an instance of Eatable, used `@Inject`. This means to initialize it, Guice will put instance as configured.
